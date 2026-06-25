@@ -16,27 +16,25 @@ The objective of this project is to convert raw Blinkit sales data into an inter
 
 ## Solution
 
-Using Power BI, HR data was transformed into a visually interactive dashboard that consolidates key workforce metrics into a single platform. The dashboard allows users to analyze employee demographics, attrition trends, performance ratings, recruitment sources, payroll costs, employee satisfaction, and workforce distribution across departments.Interactive filters for Department and Year enable dynamic exploration of workforce data and support deeper HR analysis.
+Using Power BI, I designed and developed an interactive dashboard that consolidates key retail performance metrics into a single reporting interface. The dashboard includes dynamic KPI cards, sales trend analysis, outlet-wise performance, product category analysis, outlet size comparison, fat content distribution, customer rating analysis, and interactive filters for Outlet Location Type, Outlet Size, and Item Type. These features enable users to explore data dynamically and gain valuable insights into overall business performance.
 
 ## Key Features
 
-• Workforce Overview with Total Employees, Active Employees, Terminated Employees, Male Employees, and Female Employees.
+• Interactive KPI cards displaying Total Sales, Average Sales, Number of Items, and Average Rating.
 
-• Payroll Analytics including Total Payroll Cost and Average Salary.
+• Sales trend analysis based on Outlet Establishment Year to identify business growth patterns.
 
-• Employee Attrition Analysis with Attrition Rate and Department-wise Attrition Monitoring.
+• Product category analysis highlighting the highest and lowest selling item types.
 
-• Recruitment Source Analysis to evaluate hiring channels and recruitment effectiveness.
+• Outlet performance analysis based on Outlet Type, Outlet Size, and Outlet Location Tier.
 
-• Workforce Demographics Analysis based on Marital Status and Gender Distribution.
+• Interactive slicers for Outlet Location Type, Outlet Size, and Item Type enabling dynamic report filtering.
 
-• Performance Rating Analysis for understanding employee performance trends.
-
-• Interactive Department and Year Filters for dynamic reporting.
+• Outlet comparison table presenting Total Sales, Number of Items, Average Sales, Average Rating, and Item Visibility.
 
 ## Dashboard Preview
 
-## HR Workforce Analytics Dashboard Overview
+## Blinkit Sales Performance Dashboard Overview
 
 <img src="https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/f2e247f9c4c69fdf55f6a53d7667ad4f2625f045/Blinkit_Analysis_Dashboard.png" alt="Image Description" width="600">
 
