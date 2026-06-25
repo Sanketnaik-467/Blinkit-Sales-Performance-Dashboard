@@ -3,17 +3,16 @@
 
 ## Overview
 
-This project presents an interactive **HR Workforce Analytics Dashboard** developed using **Power BI** to analyze workforce demographics, employee attrition, recruitment effectiveness, employee satisfaction, payroll metrics, and departmental performance.The dashboard provides HR professionals and business leaders with actionable insights to support workforce planning, employee retention strategies, and data-driven decision-making.
-
+This project presents an interactive **Blinkit Sales Performance Dashboard** developed using **Power BI** to analyze sales performance, outlet characteristics, product categories, and customer ratings. The dashboard transforms raw retail sales data into meaningful business insights, enabling users to monitor key performance indicators (KPIs), identify sales trends, evaluate outlet performance, and support data-driven business decisions through interactive visualizations and filters.
 
  [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/40b684ef2e6ad980ffdb933dca9ca79df1489817/Blinkit%20Sales%20Performance%20Analysis%20Dashboard.pbix)
 <br><br>
 
 ## Business Challenge
 
-Organizations often struggle to gain a comprehensive view of workforce trends due to fragmented HR data. Understanding employee attrition, recruitment sources, workforce demographics, satisfaction levels, and payroll costs is essential for improving retention and optimizing human resource strategies.
+Retail businesses generate large volumes of sales data across multiple outlets, product categories, and customer segments. Without a centralized reporting solution, it becomes difficult to monitor sales performance, compare outlet efficiency, identify high-performing product categories, and evaluate customer satisfaction.
 
-The objective of this project is to transform raw HR data into an interactive analytical dashboard that enables users to monitor key workforce metrics, identify attrition patterns, evaluate recruitment effectiveness, and support strategic HR decisions.
+The objective of this project is to convert raw Blinkit sales data into an interactive business intelligence dashboard that provides stakeholders with a comprehensive view of sales performance, outlet distribution, inventory insights, and customer ratings to support informed business decisions.
 
 ## Solution
 
@@ -43,4 +42,4 @@ Using Power BI, HR data was transformed into a visually interactive dashboard th
 
 ## Outcome
 
-This dashboard successfully converts HR data into meaningful business insights, enabling organizations to monitor workforce health, track employee attrition, evaluate recruitment effectiveness, and assess employee satisfaction. The solution demonstrates how Power BI can support strategic HR planning and improve organizational decision-making through data-driven workforce analytics.
+This dashboard successfully converts retail sales data into clear and actionable business insights, enabling organizations to monitor sales performance, evaluate outlet efficiency, identify top-performing product categories, and analyze customer satisfaction. By combining interactive visualizations with dynamic filtering capabilities, the dashboard supports faster decision-making and demonstrates practical skills in Power BI, data visualization, business intelligence, KPI reporting, and retail sales analytics.
