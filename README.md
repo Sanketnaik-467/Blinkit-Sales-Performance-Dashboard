@@ -6,7 +6,7 @@
 This project presents an interactive **HR Workforce Analytics Dashboard** developed using **Power BI** to analyze workforce demographics, employee attrition, recruitment effectiveness, employee satisfaction, payroll metrics, and departmental performance.The dashboard provides HR professionals and business leaders with actionable insights to support workforce planning, employee retention strategies, and data-driven decision-making.
 
 
- [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/HR-Workforce-Analytics-Dashboard/blob/6069285c5854a755f1baa42ee9f26ee13cd70236/HR%20Workforce%20Analytics%20Dashboard.pbix)
+ [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/40b684ef2e6ad980ffdb933dca9ca79df1489817/Blinkit%20Sales%20Performance%20Analysis%20Dashboard.pbix)
 <br><br>
 
 ## Business Challenge
