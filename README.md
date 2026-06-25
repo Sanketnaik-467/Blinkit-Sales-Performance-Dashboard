@@ -39,7 +39,7 @@ Using Power BI, HR data was transformed into a visually interactive dashboard th
 
 ## HR Workforce Analytics Dashboard Overview
 
-<img src="https://github.com/Sanketnaik-467/HR-Workforce-Analytics-Dashboard/blob/c4066a7e4a8ccd3b6f1f268646a843c448e5358c/HR%20Analytical%20Dashboard.%20png.png" alt="Image Description" width="600">
+<img src="https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/f2e247f9c4c69fdf55f6a53d7667ad4f2625f045/Blinkit_Analysis_Dashboard.png" alt="Image Description" width="600">
 
 ## Outcome
 
